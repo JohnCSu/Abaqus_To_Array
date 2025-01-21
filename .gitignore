@@ -1,0 +1,11 @@
+.venv
+*.lck
+ML*.odb
+*.log
+*.rpy*
+*.pkl
+*.rec
+# *.cae
+*.jnl
+results/
+Test/
